@@ -1,0 +1,22 @@
+.mashup_mission{
+    float: left;
+    width: calc(100% - 350px);
+    height: 355px;
+    background: RGB(220,220,220);
+}
+
+.mashup_googlemaps{
+    float: left;
+    width: 300px;
+
+}
+
+.mashup_youtube{
+    float: left;
+    
+}
+
+.mashup_facebook{
+    float: left;
+    
+}
